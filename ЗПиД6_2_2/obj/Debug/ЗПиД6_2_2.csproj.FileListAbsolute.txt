@@ -1,0 +1,15 @@
+C:\Users\Nastya\Desktop\Университет\ЗПиД\ЗПиД6\ЗПиД6_2_2\bin\Debug\ЗПиД6_2_2.exe.config
+C:\Users\Nastya\Desktop\Университет\ЗПиД\ЗПиД6\ЗПиД6_2_2\bin\Debug\ЗПиД6_2_2.exe
+C:\Users\Nastya\Desktop\Университет\ЗПиД\ЗПиД6\ЗПиД6_2_2\bin\Debug\ЗПиД6_2_2.pdb
+C:\Users\Nastya\Desktop\Университет\ЗПиД\ЗПиД6\ЗПиД6_2_2\obj\Debug\MainWindow.g.cs
+C:\Users\Nastya\Desktop\Университет\ЗПиД\ЗПиД6\ЗПиД6_2_2\obj\Debug\Passphrase.g.cs
+C:\Users\Nastya\Desktop\Университет\ЗПиД\ЗПиД6\ЗПиД6_2_2\obj\Debug\App.g.cs
+C:\Users\Nastya\Desktop\Университет\ЗПиД\ЗПиД6\ЗПиД6_2_2\obj\Debug\ЗПиД6_2_2_MarkupCompile.cache
+C:\Users\Nastya\Desktop\Университет\ЗПиД\ЗПиД6\ЗПиД6_2_2\obj\Debug\ЗПиД6_2_2_MarkupCompile.lref
+C:\Users\Nastya\Desktop\Университет\ЗПиД\ЗПиД6\ЗПиД6_2_2\obj\Debug\MainWindow.baml
+C:\Users\Nastya\Desktop\Университет\ЗПиД\ЗПиД6\ЗПиД6_2_2\obj\Debug\Passphrase.baml
+C:\Users\Nastya\Desktop\Университет\ЗПиД\ЗПиД6\ЗПиД6_2_2\obj\Debug\ЗПиД6_2_2.g.resources
+C:\Users\Nastya\Desktop\Университет\ЗПиД\ЗПиД6\ЗПиД6_2_2\obj\Debug\ЗПиД6_2_2.Properties.Resources.resources
+C:\Users\Nastya\Desktop\Университет\ЗПиД\ЗПиД6\ЗПиД6_2_2\obj\Debug\ЗПиД6_2_2.csproj.GenerateResource.Cache
+C:\Users\Nastya\Desktop\Университет\ЗПиД\ЗПиД6\ЗПиД6_2_2\obj\Debug\ЗПиД6_2_2.exe
+C:\Users\Nastya\Desktop\Университет\ЗПиД\ЗПиД6\ЗПиД6_2_2\obj\Debug\ЗПиД6_2_2.pdb

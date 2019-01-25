@@ -1,0 +1,39 @@
+﻿<Window x:Class="ЗПиД6_2_2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ЗПиД6_2_2"
+        mc:Ignorable="d"
+         Title="MainWindow" Height="320" Width="525">
+    <TabControl>
+        <TabItem Header="Зашифровать">
+            <Grid>
+                <GroupBox Header="Действия" Margin="25" VerticalAlignment="Top">
+                    <StackPanel>
+                        <RadioButton Name="rbEnSign" Margin="0, 3" IsChecked="True">Подписать</RadioButton>
+                        <RadioButton Name="rbEncode" Margin="0, 3">Зашифровать</RadioButton>
+                        <RadioButton Name="rbSignAndEncode" Margin="0, 3">Подписать и зашифровать</RadioButton>
+                    </StackPanel>
+                </GroupBox>
+                <TextBox Name="tbEnOpen" Height="25" Width="372" HorizontalAlignment="Left" Margin="30,0,0, 85" VerticalAlignment="Bottom"></TextBox>
+                <Button Height="25" Width="75" Content="Открыть" VerticalAlignment="Bottom" Margin="15, 28, 15, 85"  HorizontalAlignment="Right" Name="btEnOpen" Click="btEnOpen_Click"></Button>
+                <Button Height="25" Width="95" VerticalAlignment="Bottom" Margin="30" Content="Расшифровать" Name="btEncode" Click="btEncode_Click"></Button>
+            </Grid>
+        </TabItem>
+        <TabItem Header="Расшифровать">
+            <Grid>
+                <GroupBox Header="Действия" Margin="25" VerticalAlignment="Top">
+                    <StackPanel>
+                        <RadioButton Name="rbDeSign" Margin="0, 3" IsChecked="True">Проверить подлинность</RadioButton>
+                        <RadioButton Name="rbDecode" Margin="0, 3">Расшифровать</RadioButton>
+                        <RadioButton Name="rbSignAndDecode" Margin="0, 3">Проверить подлинность и расшифровать</RadioButton>
+                    </StackPanel>
+                </GroupBox>
+                <TextBox Name="tbDeOpen" Height="25" Width="372" HorizontalAlignment="Left" Margin="30,0,0, 85" VerticalAlignment="Bottom"></TextBox>
+                <Button Height="25" Width="75" Content="Открыть" VerticalAlignment="Bottom" Margin="15, 28, 15, 85"  HorizontalAlignment="Right" Name="btDeOpen" Click="btDeOpen_Click"></Button>
+                <Button Height="25" Width="95" VerticalAlignment="Bottom" Margin="30" Content="Расшифровать" Name="btDecode" Click="btDecode_Click"></Button>
+            </Grid>
+        </TabItem>
+    </TabControl>
+</Window>

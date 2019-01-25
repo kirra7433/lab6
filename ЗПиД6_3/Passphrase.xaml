@@ -1,0 +1,14 @@
+﻿<Window x:Class="ЗПиД6_3.Passphrase"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ЗПиД6_3"
+        mc:Ignorable="d"
+        Title="Passphrase" Height="170" Width="300">
+    <Grid>
+        <Label Content="Введите контрольную парольную фразу" HorizontalContentAlignment="Center" Margin="15"></Label>
+        <PasswordBox Name="pbPass" Height="25" Width="250" ></PasswordBox>
+        <Button Name="btEnter" Content="Готово" Height="25" Width="100" VerticalAlignment="Bottom" Margin="15" Click="btEnter_Click"></Button>
+    </Grid>
+</Window>
